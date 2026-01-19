@@ -7,6 +7,6 @@ Projeto em Python focado no processo de ETL de dados de clientes para criação 
 
 - PYTHON
 - PANDAS
-- API OPENAI
+- API GROQ PARA LLM
 - GOOGLE COLAB
 
